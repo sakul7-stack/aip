@@ -15,6 +15,6 @@ Open `final.ipynb` in Jupyter with `final.png` and `video.mp4` in the same folde
 
 ## Contributors
 
-- [Kushal K.C.](https://github.com/Quackzy7)
-- [Abhishu Panthi](https://github.com/sakul7-stack/)
+- [Kushal K.C.](https://github.com/sakul7-stack)
+- [Abhishu Panthi](https://github.com/Quackzy7)
 - [Jenif Khadka](https://github.com/JENIFKHADKA)
